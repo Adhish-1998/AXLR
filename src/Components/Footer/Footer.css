@@ -1,0 +1,33 @@
+.Footer{
+    bottom: 0;
+    width: 100%;
+    border: 10px solid  black;
+}
+
+.div1{
+    border: 2px solid red;
+    height: 75px;
+}
+
+.div1 h4{
+    position: relative;
+    right : 580px;
+}
+
+.div1 ul li{
+    display: inline-block;
+    margin-right: 10px;
+    position: relative;
+    top: -42px;
+}
+
+.div1 p{
+    position: relative;
+    left: 1200px; 
+    width: 100px;
+    top: -78px;
+}
+
+.div2{
+    border: 5px solid green;
+}
