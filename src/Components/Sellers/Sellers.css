@@ -1,5 +1,17 @@
 
 .Sellers{
     border: 10px solid black;
-    height: 150px;
+    height: 450px;
+}
+
+.carousel-inner{
+    height: 350px;
+    width: 100%;
+    
+}
+
+.image{
+    background-size: contain;
+    height: 400px;
+    width: 50%;
 }

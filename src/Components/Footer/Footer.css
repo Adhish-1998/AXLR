@@ -12,20 +12,21 @@
 .div1 h4{
     position: relative;
     right : 580px;
+    top: 15px;
 }
 
 .div1 ul li{
     display: inline-block;
     margin-right: 10px;
     position: relative;
-    top: -42px;
+    top: -14px;
 }
 
 .div1 p{
     position: relative;
-    left: 1200px; 
+    left: 1280px; 
     width: 100px;
-    top: -78px;
+    top: -55px;
 }
 
 .div2{

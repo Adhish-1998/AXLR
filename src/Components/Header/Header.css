@@ -1,28 +1,31 @@
+.navbar-brand{
+    font-weight: bolder;
+    text-decoration: underline;
+    position: relative;
+    left : 60px;
+}
 
+#Menu{
+    position: relative;
+    top: 8px;
+    left: 100px;
+}
+
+#Logo{
+    position: relative;
+    left : 650px;
+    top: 5px;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+#Contact{
+    position: relative;
+    top: 8px;
+    left: 1200px;
+    font-weight: bolder;
+}
 
 .Header{
-    border: 5px solid black;
-    height: 60px;
-    width: 100%;
-}
-
-
-.Header ul li{
-    position: relative;
-    display: inline-block;
-    margin-right : 50px;
-    right : 550px;
-}
-
-
-.Header h3{
-    position: relative;
-    top : -40px;
-}
-
-.Header h4{
-    position: relative;
-    top : -80px;
-    width: 0;
-    left : 85%;
+    height: 80px;
 }

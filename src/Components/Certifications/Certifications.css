@@ -1,5 +1,19 @@
 
 .Certifications{
     border: 10px solid red;
-    height: 150px;
+    height: 400px;
+}
+
+.Certifications ul li{
+    display: inline-block;
+    border: 5px solid grey;
+    background-color: grey;
+    border-radius: 60px;
+    position: relative;
+    top: 20px;
+    right: 50px;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    margin-left: 120px
 }

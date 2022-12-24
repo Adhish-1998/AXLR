@@ -3,3 +3,34 @@
     width : 100%;
     height: 200px;
 }
+
+.card{
+    height: 50px;
+    width: 30%;
+    display: inline-block;
+}
+
+.Popup li{
+    display: inline-block;
+    border: 5px solid grey;
+    background-color: grey;
+    border-radius: 60px;
+    height: 80px;
+    width: 80px;
+    margin-right: 400px;
+    position : relative;
+    left: 10px;
+    top: 50px
+}
+
+
+.Popup li div{
+    border: 2px solid grey;
+    height: 10px;
+    width: 300px;
+    display: inline-block;
+    position: relative;
+    left: 100px;
+    top: -4px;
+    background-color: grey;
+}

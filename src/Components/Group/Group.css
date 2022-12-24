@@ -3,6 +3,18 @@
 .Group{
     position: relative;
     border: 5px solid green;
-    height: 250px;
+    height: 5%;
     width: 100%;
+}
+
+.carousel-inner{
+    height: 400px;
+    width: 100%;
+    
+}
+
+.image{
+    background-size: contain;
+    height: 400px;
+    width: 50%;
 }

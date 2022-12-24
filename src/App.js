@@ -9,7 +9,7 @@ import Arrivals from './Components/Arrivals/Arrivals';
 import Certifications from './Components/Certifications/Certifications';
 import Trending from './Components/Trending/Trending';
 import Customer from './Components/Customer/Customer';
-import Testimonials from './Components/Testimonials/Testimonial';
+import Testimonials from './Components/Testimonials/Testimonials';
 import ContactUs from './Components/Contact Us/ContactUs';
 import { Helmet } from 'react-helmet'
 
@@ -28,7 +28,6 @@ function App() {
       <Arrivals />
       <Certifications />
       <Trending />
-      <Customer />
       <Testimonials />
       <ContactUs />
       <Footer />

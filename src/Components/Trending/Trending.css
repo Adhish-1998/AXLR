@@ -1,5 +1,18 @@
 
 .Trending{
     border: 10px solid black;
-    height: 150px;
+    height: 500px;
+}
+
+
+.carousel-inner{
+    height: 400px;
+    width: 100%;
+    
+}
+
+.image{
+    background-size: contain;
+    height: 400px;
+    width: 100%;
 }

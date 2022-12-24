@@ -2,8 +2,24 @@ import './Popup.css'
 
 const Popup = () => {
     return (
-        <div className = 'Popup'>
-            <h3>Popup Goes Here</h3>
+        <div className='Popup'>
+            <ul>
+                <li>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                </li>
+                <li>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                </li>
+                <li>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                </li>
+            </ul>
         </div>
     )
 }
